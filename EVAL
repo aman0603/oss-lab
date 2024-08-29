@@ -1,0 +1,21 @@
+
+def main():
+    students={}
+    students['aman']={
+        'class'='12',
+        'height'=5.5
+        'weight'=55
+        'sport'='football',
+        'agility'='good',
+        'speed'=5
+    }
+    
+    students['mehul']={
+        'class'='12',
+        'height'=5.4
+        'weight'=50
+        'sport'='cricket
+        'agility'='good',
+        'speed'=7
+    }
+   
