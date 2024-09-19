@@ -1,0 +1,16 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy import linalg
+
+
+random_volume=100*np.random.rand(1,126)
+random_price=10000*np.random.rand(1,256)
+trading_volume= np.array([random_volume])
+print(trading_volume)
+daily_closing_price=np.array([random_price])
+print(daily_closing_price)
+
+number_of_days=[]
+days=np.array([number_of_days])
+
+weekly_volume(trading_volume)
